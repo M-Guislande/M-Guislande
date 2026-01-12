@@ -19,9 +19,8 @@ Sou apaixonado por tecnologia desde cedo e atualmente desenvolvo projetos que in
 
 ## 🚀 Projetos
 
-- 🤖 Robôs seguidores de linha  
 - 🧠 IA de detecção de emoções  
-- ⚙️ Sistemas embarcados com STM32  
+- ⚙️ Sistemas embarcados com STM32
 
 ## 🌐 Contato
 
